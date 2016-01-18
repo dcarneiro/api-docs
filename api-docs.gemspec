@@ -7,7 +7,6 @@ Gem::Specification.new do |spec|
   spec.name          = "api-docs"
   spec.version       = Api::Docs::VERSION
   spec.authors       = ["Daniel Carneiro"]
-  spec.email         = ["daniel.carneiro@nmusic.pt"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
