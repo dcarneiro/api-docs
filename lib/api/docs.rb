@@ -1,7 +1,8 @@
-require "api/docs/version"
+require 'api/docs/config'
+require 'api/docs/dsl'
+require 'api/docs/version'
 
 module Api
   module Docs
-    # Your code goes here...
   end
 end
